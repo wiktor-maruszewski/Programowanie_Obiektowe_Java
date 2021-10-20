@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package lab01;
+package lab1;
 import java.lang.Math;
 import java.util.Scanner;
 
 
-public class lab2 {
+public class lab1 {
     
     public static int factorial(int n){
         int fact = 1;
@@ -129,7 +129,7 @@ public class lab2 {
         }
         System.out.print(array[0]);
 */
-        lab2.pkt2();
+        lab1.pkt2();
     }
     
 }
