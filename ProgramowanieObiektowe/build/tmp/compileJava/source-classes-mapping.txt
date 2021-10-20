@@ -1,2 +1,4 @@
 ProgramowanieObiektowe/Main.java
  ProgramowanieObiektowe.Main
+lab01/lab2.java
+ lab01.lab2
