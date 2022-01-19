@@ -1,44 +1,56 @@
-lab6/pl/imiajd/kowalski/Nauczyciel.java
- lab6.pl.imiajd.kowalski.Nauczyciel
-lab4/lab4.java
- lab4
 lab6/pl/imiajd/kowalski/Student.java
  lab6.pl.imiajd.kowalski.Student
-lab6/Main.java
- lab6.Main
-lab1/lab1.java
- lab1.lab1
-lab3/lab3.java
- lab3.lab3
 Programowanie_Obiektowe/Main.java
  Programowanie_Obiektowe.Main
-lab6/pl/imiajd/kowalski/BetterRectangle.java
- lab6.pl.imiajd.kowalski.BetterRectangle
 lab5/lab5.java
  IntegerSet
  RachunekLiczbowy
  lab5
-lab6/pl/imiajd/kowalski/Adres.java
- lab6.pl.imiajd.kowalski.Adres
-lab6/pl/imiajd/kowalski/Osoba.java
- lab6.pl.imiajd.kowalski.Osoba
-lab2/lab2.java
- lab2.lab2
-lab7/TestInstrumenty.java
- lab7.TestInstrumenty
+lab8/zad3.java
+ lab8.zad3
+lab4/lab4.java
+ lab4
 lab7/pl/imiajd/maruszewski/Osoba.java
  lab7.pl.imiajd.maruszewski.Osoba
+lab7/pl/imiajd/maruszewski/Student.java
+ lab7.pl.imiajd.maruszewski.Student
+lab3/lab3.java
+ lab3.lab3
 lab7/pl/imiajd/maruszewski/Fortepian.java
  lab7.pl.imiajd.maruszewski.Fortepian
-lab7/pl/imiajd/maruszewski/Instrument.java
- lab7.pl.imiajd.maruszewski.Instrument
+lab8/pl/imiajd/nazwisko/Student.java
+ lab8.pl.imiajd.nazwisko.Student
 lab7/pl/imiajd/maruszewski/Pracownik.java
  lab7.pl.imiajd.maruszewski.Pracownik
+lab8/TestStudent.java
+ lab8.TestStudent
 lab7/pl/imiajd/maruszewski/Flet.java
  lab7.pl.imiajd.maruszewski.Flet
 lab7/TestOsoba.java
  lab7.TestOsoba
+lab6/pl/imiajd/kowalski/Adres.java
+ lab6.pl.imiajd.kowalski.Adres
 lab7/pl/imiajd/maruszewski/Skrzypce.java
  lab7.pl.imiajd.maruszewski.Skrzypce
-lab7/pl/imiajd/maruszewski/Student.java
- lab7.pl.imiajd.maruszewski.Student
+lab2/lab2.java
+ lab2.lab2
+lab8/pl/imiajd/nazwisko/Osoba.java
+ lab8.pl.imiajd.nazwisko.Osoba
+lab6/Main.java
+ lab6.Main
+lab1/lab1.java
+ lab1.lab1
+lab6/pl/imiajd/kowalski/BetterRectangle.java
+ lab6.pl.imiajd.kowalski.BetterRectangle
+lab8/TestOsoba.java
+ lab8.TestOsoba
+lab6/pl/imiajd/kowalski/Osoba.java
+ lab6.pl.imiajd.kowalski.Osoba
+lab6/pl/imiajd/kowalski/Nauczyciel.java
+ lab6.pl.imiajd.kowalski.Nauczyciel
+lab7/TestInstrumenty.java
+ lab7.TestInstrumenty
+lab7/pl/imiajd/maruszewski/Instrument.java
+ lab7.pl.imiajd.maruszewski.Instrument
+lab9/Lista.java
+ lab9.Lista
